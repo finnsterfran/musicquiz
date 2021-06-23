@@ -19,7 +19,6 @@ body {
     justify-content: center;
     align-items: center;
     background-color: hsl(var(--hue), 200%, 30%);
-
 } 
 
 body.correct {
